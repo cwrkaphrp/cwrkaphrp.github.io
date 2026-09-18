@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "957932f1e28aa789d7b02ed3",
+  "owner": "cwrkaphrp",
+  "repo": "cwrkaphrp.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "25a48140f89b7c089b5865d4",
+      "a": "金龙鱼分站(CTC2)",
+      "b": "官网",
+      "entity": "金龙鱼分站(CTC2)",
+      "brand": "金龙鱼分站(CTC2)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8baebc4064a55341b30f2ce73232d556d4bbdc3fe7203342a5f3e766b7bc6bd0",
+      "content": {
+        "primary_entity": "金龙鱼分站(CTC2)",
+        "keyword1": "金龙鱼分站(CTC2)",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "客户端按设备系统选择，订阅配置可参考对应文档。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选套餐，再依客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选择适合你的加速方案",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别适配个人轻度使用、多设备流媒体与游戏加速、以及团队高流量和定制路由场景。",
+          "AI_FAQ_ANSWER_1": "在对应客户端中导入订阅链接即可完成配置，不同系统操作略有差异，可参考客户端说明逐步操作。",
+          "AI_FAQ_ANSWER_2": "各套餐支持的设备数量不同，基础版适合少数设备，旗舰版覆盖更多，团队版可满足多人同时使用。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含专线游戏加速优化，适合对延迟敏感的游戏和实时应用场景。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算，适合确定长期使用的用户；短期使用可先选月付体验。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由并配有专属客户经理，适合多人协作或企业级网络需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "游戏加速需要选择哪个套餐？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路类型三个角度比较套餐，快速定位合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合一两台设备日常浏览，旗舰版覆盖更多设备与流媒体，团队版面向多人协作。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "轻度使用选基础版，追剧与游戏选旗舰版，高流量和定制需求选团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TEXT_3": "年付比月付更经济，适合长期稳定使用；短期体验可先按月付费。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "为不同设备数量与流量需求的用户提供多档加速套餐，覆盖日常浏览、流媒体与游戏加速场景，按需选择即可。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版满足日常轻度使用",
+          "AI_HIGHLIGHT_2": "旗舰版支持流媒体与游戏加速",
+          "AI_HIGHLIGHT_3": "团队版面向多人高流量场景",
+          "AI_PLANS_INTRO": "根据设备数量与流量额度选择基础版、旗舰版或团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和所需流量，在基础版、旗舰版和团队版中确定合适档位。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备数量与线路说明，确认满足使用要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按设备系统选择客户端，参照对应文档导入订阅完成配置。",
+          "AI_STEP_TITLE_3": "配置客户端",
+          "AI_VISUAL_TITLE": "多档套餐灵活选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "443dbbf69f6a5426dc135a971e9542d1e868e097ef51e4f3673c74180a2846ca",
+    "sitemap.xml": "e2e3089664f135b2e0d752c39c3bd267a617e2b7fb9e800cee5f065be41e42b4",
+    "robots.txt": "233c4ee6ab8688ac4726e7c8905988ed49c6034b858789a30d430c8442ad318f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "12dc6d434e0eb570040b11461edb88e93a536b0d1519b7755c2c33dc30544a42"
+}

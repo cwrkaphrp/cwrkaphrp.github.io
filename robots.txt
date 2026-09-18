@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cwrkaphrp.github.io/sitemap.xml
